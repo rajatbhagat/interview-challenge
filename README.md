@@ -1,4 +1,4 @@
-# demosept-22
+# interview-challenge
 
 ## Problem 1
 
