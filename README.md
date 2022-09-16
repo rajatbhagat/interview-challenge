@@ -27,4 +27,10 @@ and print out the url name if a input string matches the name and/or description
 
 ## Bonus Problem
 
-Simulate the Linux "tail" command in Python. 
+Simulate the Linux "tail" command in Python. Add the below options as command line params to configure behaviour of the command.
+```commandline
+    -f,  Follow the output of the file. The commadn should not stop when it reaches the end. It 
+    should waits for additional data.
+    -n number , The number of lines to show in the output. 
+    -r, The output is displayed in a reverse order 
+```
