@@ -10,7 +10,7 @@ First, find the number of duplicate words in each column and output them in the 
 
 Word - count
 
-and then write it back into a .json file with the filed names preserved/copied from the orginal input file.
+and then write it back into a .json file with the field names preserved/copied from the orginal input file.
 
 
 
@@ -22,7 +22,7 @@ Write a Python or Javascript/Typescript program to accept an input keyword strin
 
 https://api.publicapis.org/entries
 
-and print out the url name if a input string matches the name and/or description.
+and print out the url name if a input string matches the API and/or description.
 
 
 ## Bonus Problem
